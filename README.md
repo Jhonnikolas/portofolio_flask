@@ -1,7 +1,7 @@
 # portofolio_flask
 Mini web portfolio dibuat dengan Flask, menampilkan profil dan project dengan sistem admin panel sederhana.
 
-# 🌐 Flask Portfolio Project
+#  Flask Portfolio Project
 
 Project ini merupakan aplikasi web sederhana menggunakan **Flask (Python)** 
 untuk menampilkan **profil, foto, dan daftar project**.  
@@ -9,7 +9,7 @@ Terdapat fitur **halaman publik** dan **halaman admin** untuk mengelola data pro
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 - Menampilkan profil pengguna dan foto
 - CRUD (Create, Read, Update, Delete) project
 - Upload foto project ke folder static/uploads/projects
@@ -18,7 +18,7 @@ Terdapat fitur **halaman publik** dan **halaman admin** untuk mengelola data pro
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 - **Python Flask**
 - **HTML, CSS (Bootstrap)**
 - **MySQL / MariaDB**
